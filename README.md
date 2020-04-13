@@ -1,2 +1,2 @@
 # sample
-Single user single branch -test
+Single user single branch
